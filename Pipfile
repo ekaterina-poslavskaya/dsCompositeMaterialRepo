@@ -11,6 +11,7 @@ scikit-learn = "*"
 seaborn = "*"
 tensorflow = "*"
 keras = "*"
+openpyxl = "*"
 
 [dev-packages]
 
